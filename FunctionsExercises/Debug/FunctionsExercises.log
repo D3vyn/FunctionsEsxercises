@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\walki\source\repos\functionsexercises\functionsexercises\source.cpp(307): warning C4715: 'playMatch': not all control paths return a value
+c:\users\walki\source\repos\functionsexercises\functionsexercises\source.cpp(277): warning C4715: 'playGame': not all control paths return a value
+  FunctionsExercises.vcxproj -> C:\Users\walki\source\repos\FunctionsExercises\Debug\FunctionsExercises.exe
